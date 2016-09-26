@@ -9,14 +9,7 @@ package gitdemo;
  *
  * @author Irving
  */
-public class GitDemo {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        //System.out.println("Git commit");
-        HelloClass.hello();
-    }
-    
+class HelloClass {
+    public static void hello(){
+        System.out.println("Hello World");}
 }
