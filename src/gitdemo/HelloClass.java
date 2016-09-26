@@ -11,5 +11,5 @@ package gitdemo;
  */
 class HelloClass {
     public static void hello(){
-        System.out.println("Git Demo Push un autre class");}
+        System.out.println("Bonjour le monde");}
 }
